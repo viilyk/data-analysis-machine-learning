@@ -1,6 +1,6 @@
 # Домашние задания и семинары с курса Natural Language Proccessing (ШАД)
 
-## Syllabus
+## Description
 - [__embeddings__](./embeddings)
   - Seminar: Playing with word and sentence embeddings
   - Homework: Embedding-based machine translation system
