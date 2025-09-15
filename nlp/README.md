@@ -10,10 +10,10 @@
 - [__language modeling__](./lm)
   - Seminar: Build a N-gram language model from scratch
   - Homework: Neural LMs & smoothing in count-based models.
-- [Seq2Seq and Attention](./seq_2_seq)
+- [__Seq2Seq and Attention__](./seq_2_seq)
   - Seminar: Basic sequence to sequence model
   - Homework: Machine translation with attention
-- [Transfer Learning](./transfer)
+- [__Transfer Learning__](./transfer)
   - Homework: fine-tuning a pre-trained BERT model
-- [Transformer architecture and training](./peft)
+- [__Transformer architecture and training__](./peft)
   - Homework: fine-tuning a large language model with PEFT algorithms
